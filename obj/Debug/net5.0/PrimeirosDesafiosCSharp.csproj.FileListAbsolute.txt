@@ -1,0 +1,16 @@
+D:\workspace\PrimeirosDesafiosCSharp\bin\Debug\net5.0\PrimeirosDesafiosCSharp.exe
+D:\workspace\PrimeirosDesafiosCSharp\bin\Debug\net5.0\PrimeirosDesafiosCSharp.deps.json
+D:\workspace\PrimeirosDesafiosCSharp\bin\Debug\net5.0\PrimeirosDesafiosCSharp.runtimeconfig.json
+D:\workspace\PrimeirosDesafiosCSharp\bin\Debug\net5.0\PrimeirosDesafiosCSharp.runtimeconfig.dev.json
+D:\workspace\PrimeirosDesafiosCSharp\bin\Debug\net5.0\PrimeirosDesafiosCSharp.dll
+D:\workspace\PrimeirosDesafiosCSharp\bin\Debug\net5.0\ref\PrimeirosDesafiosCSharp.dll
+D:\workspace\PrimeirosDesafiosCSharp\bin\Debug\net5.0\PrimeirosDesafiosCSharp.pdb
+D:\workspace\PrimeirosDesafiosCSharp\obj\Debug\net5.0\PrimeirosDesafiosCSharp.csproj.AssemblyReference.cache
+D:\workspace\PrimeirosDesafiosCSharp\obj\Debug\net5.0\PrimeirosDesafiosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\PrimeirosDesafiosCSharp\obj\Debug\net5.0\PrimeirosDesafiosCSharp.AssemblyInfoInputs.cache
+D:\workspace\PrimeirosDesafiosCSharp\obj\Debug\net5.0\PrimeirosDesafiosCSharp.AssemblyInfo.cs
+D:\workspace\PrimeirosDesafiosCSharp\obj\Debug\net5.0\PrimeirosDesafiosCSharp.csproj.CoreCompileInputs.cache
+D:\workspace\PrimeirosDesafiosCSharp\obj\Debug\net5.0\PrimeirosDesafiosCSharp.dll
+D:\workspace\PrimeirosDesafiosCSharp\obj\Debug\net5.0\ref\PrimeirosDesafiosCSharp.dll
+D:\workspace\PrimeirosDesafiosCSharp\obj\Debug\net5.0\PrimeirosDesafiosCSharp.pdb
+D:\workspace\PrimeirosDesafiosCSharp\obj\Debug\net5.0\PrimeirosDesafiosCSharp.genruntimeconfig.cache
