@@ -9,7 +9,7 @@ namespace PrimeirosDesafiosCSharp
 
             int tc, i, x;
             tc = int.Parse(Console.ReadLine());
-            for (i=0;i<10000;i++)
+            for (i=0;i<tc && tc<10000;i++)
             {
                 x = int.Parse(Console.ReadLine());
                 if (x==0)
