@@ -1,7 +1,7 @@
 using System;
 using System.Globalization;
 
-namespace PrimeirosDesafiosCSharp
+namespace DesafiosCSharp
 {
     public class CoordenadasDeUmPonto
     {

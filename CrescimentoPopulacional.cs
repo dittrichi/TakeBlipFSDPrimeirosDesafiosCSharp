@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace PrimeirosDesafiosCSharp
+namespace DesafiosCSharp
 {
     public class CrescimentoPopulacional
     {

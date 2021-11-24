@@ -1,5 +1,5 @@
 using System;
-namespace PrimeirosDesafiosCSharp
+namespace DesafiosCSharp
 {
     public class Diferenca
     {

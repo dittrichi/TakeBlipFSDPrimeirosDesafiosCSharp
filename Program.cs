@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PrimeirosDesafiosCSharp
+namespace DesafiosCSharp
 {
     internal class NewBaseType
     {
@@ -23,27 +23,27 @@ namespace PrimeirosDesafiosCSharp
 
                 switch(op){
                     case "1":
-                    PrimeirosDesafiosCSharp.Diferenca.Executar();
+                    Diferenca.Executar();
                     break;
 
-                    case "2":
-                    PrimeirosDesafiosCSharp.Problem.Executar();
+                    case "2":                    
+                    Problem.Executar();
                     break;
 
                     case "3":
-                    PrimeirosDesafiosCSharp.MultiplicacaoSimples.Executar();
+                    MultiplicacaoSimples.Executar();
                     break;
 
                     case "4":
-                    PrimeirosDesafiosCSharp.ParOuImpar.Executar();
+                    ParOuImpar.Executar();
                     break;
 
                     case "5":
-                    PrimeirosDesafiosCSharp.CoordenadasDeUmPonto.Executar();
+                    CoordenadasDeUmPonto.Executar();
                     break;
 
                     case "6":
-                    PrimeirosDesafiosCSharp.CrescimentoPopulacional.Executar();
+                    CrescimentoPopulacional.Executar();
                     break;
 
                     default:
