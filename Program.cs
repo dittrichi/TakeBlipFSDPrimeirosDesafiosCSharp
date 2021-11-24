@@ -12,6 +12,7 @@ namespace PrimeirosDesafiosCSharp
             Console.WriteLine("3 - Multiplicação Simples");
             Console.WriteLine("4 - Par ou Impar");
             Console.WriteLine("5 - Coordenadas de um Ponto");
+            Console.WriteLine("6 - Crescimento Populacional");
 
             String op = Console.ReadLine();
 
@@ -39,6 +40,10 @@ namespace PrimeirosDesafiosCSharp
 
                     case "5":
                     PrimeirosDesafiosCSharp.CoordenadasDeUmPonto.Executar();
+                    break;
+
+                    case "6":
+                    PrimeirosDesafiosCSharp.CrescimentoPopulacional.Executar();
                     break;
 
                     default:
