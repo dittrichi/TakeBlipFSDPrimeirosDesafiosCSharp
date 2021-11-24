@@ -13,6 +13,7 @@ namespace DesafiosCSharp
             Console.WriteLine("4 - Par ou Impar");
             Console.WriteLine("5 - Coordenadas de um Ponto");
             Console.WriteLine("6 - Crescimento Populacional");
+            Console.WriteLine("7 - Preenchimento de Vetor I");
 
             String op = Console.ReadLine();
 
@@ -44,6 +45,10 @@ namespace DesafiosCSharp
 
                     case "6":
                     CrescimentoPopulacional.Executar();
+                    break;
+
+                    case "7":
+                    PreenchimentoDeVetorI.Executar();
                     break;
 
                     default:
